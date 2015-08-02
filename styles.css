@@ -1,0 +1,53 @@
+body { 
+	font-family: sans-serif;
+	color: #000000;
+
+}
+
+header {
+	background: #008000;
+	text-align: center;
+	color: 008000;
+}
+
+a {
+	color: #808080;
+
+}
+
+h1 {
+color: #ff00ff;
+font-size: 48px;
+}
+
+img {
+	border: 2px solid blue;
+}
+
+
+#about {s
+	background: #0080000;
+}
+
+.about {
+	background: #0080000;
+}
+
+.links h2 { 
+	font-family: sans-serif;
+	color: #000080;
+}.padded {
+	padding:10px;
+}
+.contact { 
+text-align:center;
+color:#fff;
+background: url(images/dark_embroidery.png);
+}
+
+.contact img {
+	border-radius: 50%;
+	display: inline-block;
+	height:100px;
+	width:100px;
+}
